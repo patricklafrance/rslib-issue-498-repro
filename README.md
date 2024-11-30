@@ -1,5 +1,7 @@
 # rslib-issue-498-repro
 
+Issue: https://github.com/web-infra-dev/rslib/issues/498#issuecomment-2508879716
+
 To reproduce:
 
 - `pnpm install`
